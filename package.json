@@ -2,6 +2,7 @@
   "name": "tab-content-reader",
   "version": "1.0.0",
   "description": "Chrome extension to read tab URLs and content",
+  "packageManager": "npm@10.0.0",
   "scripts": {
     "build": "webpack --mode=production",
     "dev": "webpack --mode=development --watch",

@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Cht Broswer",
+  "name": "Chat Browser",
   "version": "1.0",
   "description": "AI Broser companion for remembering, reading, and summarizing tab content",
   "permissions": [
